@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui, sans-serif;
+    font-feature-settings: "ss01";
+    text-rendering: optimizeLegibility;
+}
+
+.employee {
+    background-color: #ffaca3;
+}
+
+.customer {
+    background-color: #6bcbff;
+}
